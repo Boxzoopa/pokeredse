@@ -4,11 +4,32 @@ _OakText6::
 	prompt
 
 _OakText7::
+	text "Right! So your"
+	line "name is <PLAYER>!"
+	prompt
+
+_OakText8::
+	text "This boy is my"
+	line "grandson. He's"
+	cont "been your rival"
+	cont "since you were"
+	cont "kids."
+
+	para "...Erm, what is"
+	line "his name again?"
+	prompt
+
+_OakText9::
+	text "Oh, That's right!"
+	line "<RIVAL> it was!"
+	prompt
+
+_OakText10::
 	text "<PLAYER>, are you"
 	line "ready?"
 
 	para "Your very own"
-	line "#MON story is"
+	line "#MON legend is"
 	cont "about to unfold."
 
 	para "You'll face fun"
